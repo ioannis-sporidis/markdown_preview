@@ -1,6 +1,6 @@
 # Markdown Preview
 
-https://ioannis-sporidis.github.io/markdown_preview/
+Checkout the live app [here](https://ioannis-sporidis.github.io/ra-markdown-preview/)
 
 ## Dependencies
 
